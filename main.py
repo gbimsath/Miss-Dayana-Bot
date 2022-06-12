@@ -94,7 +94,7 @@ back = ReplyKeyboardMarkup(
       
 DATABASE_URL=MONGO_URI
 db = Database(DATABASE_URL, "Memehub_bot")     
-#-------------------------------start---------------------------------------#
+#-------------------------------start-----------------------------------------#
 
 @Client.on_message(filters.command("start"))
 async def startprivate(client, message):
