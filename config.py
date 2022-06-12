@@ -76,7 +76,7 @@ START_BUTTON = InlineKeyboardMarkup([[
 
 ADMIN_BTN = InlineKeyboardMarkup([[
                  InlineKeyboardButton('Sανιη∂υ Dєѕнαη', user_id="SAVINDU_DESHAN")
-                 ],
+                 ],[
                  InlineKeyboardButton('#AFK Kushan Imantha', user_id="AFK_Kushan_Imantha")
                  ]]
                   )
