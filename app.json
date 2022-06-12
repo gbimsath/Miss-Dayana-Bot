@@ -1,8 +1,8 @@
 {
-    "name": "Memehub Bot",
+    "name": "Miss Dayana Bot",
     "description": "Multi Function Pm Bot",
-    "repository": "https://github.com/Gishankrishka2/MultiPm",
-    "logo": "https://telegra.ph/file/9f271ad6d291dac311b7d.jpg",
+    "repository": "https://github.com/SAVINDU-DESHAN/Miss-Dayana-Bot/",
+    "logo": "https://te.legra.ph/file/2fe220edbebf911e46362.jpg",
     "keywords": ["pyrogram",
                  "pyro",
                  "telegram",
@@ -14,11 +14,11 @@
         },
         "OWNER_ID": {
             "description": "Your Telegram Id",
-            "value": "1884885842"
+            "value": "1263393688"
         },
         "MAIN_CHANNEL": {
             "description": "Main Channel Id",
-            "value": ""
+            "value": "https://t.me/Rawana_Developers"
         },
         "LOG_CHANNEL": {
             "description": "Log Channel Id",
@@ -26,7 +26,7 @@
         },
         "PRIVATE_LOG": {
             "description": "Private Log Channel Id",
-            "value": "-1001660993748"
+            "value": "https://t.me/Rawana_Developers"
         },
         "API_ID": {
             "description": "Your API_ID from https://my.telegram.org/apps ",
